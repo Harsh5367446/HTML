@@ -1,0 +1,46 @@
+body
+{
+  background-color: black;
+  color: white;
+  font-style: bolder;
+  border: 20px inset skyblue;
+  margin-right: 200px;
+  margin-left: 300px;
+  padding: 20px 10px 30px 10px;
+  border-radius: 10px;
+ }
+#fname
+{
+  margin: 20px;
+  padding: 10px;
+ border: 1px inset blueviolet;
+  border-radius: 15px;
+}
+#lname
+{
+  margin: 20px;
+  padding: 10px;
+  border: 1px outset brown;
+  border-radius: 15px;
+}
+.submit
+{
+  margin: 10px;
+  padding: 10px;
+  border: 2px none;
+  border-radius: 12px;
+  background-color: lightgreen;
+  text-transform: capitalize;
+  font-style: Bold;
+  border-color: cadetblue;
+}
+.h2
+{
+  margin-top: 15px;
+  padding: 0px;
+  border: 2px none greenyellow;
+  border-width:1px;
+  border-spacing: 2px;
+   border-radius: 10px;
+  color: cornsilk;
+}
